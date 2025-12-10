@@ -51,8 +51,8 @@ project/
 | Loại model          | File               | Mục đích                  |
 | ------------------- | ------------------ | ------------------------- |
 | Face Detection      | `yolov11n-face.pt` | Xác định vị trí khuôn mặt |
-| Age Classification  | `best.pt`          | Dự đoán tuổi              |
-| Race Classification | `best.pt`          | Dự đoán chủng tộc         |
+| Age Classification  | `age.pt`          | Dự đoán tuổi              |
+| Race Classification | `race.pt`          | Dự đoán chủng tộc         |
 
 ---
 
