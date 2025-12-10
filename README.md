@@ -117,8 +117,4 @@ Nhấn **Q** để thoát chương trình.
 * Hiển thị FPS
 * Render lên cửa sổ OpenCV
 
----
-
-
-→ Chỉ cần nói nhé!
 
